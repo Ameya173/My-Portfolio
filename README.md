@@ -25,7 +25,7 @@ This portfolio website serves as a digital resume and project showcase. It inclu
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/your-username/portfolio-website.git
+git clone https://github.com/Ameya173/portfolio-website.git
 cd portfolio-website
 ```
 
@@ -131,10 +131,10 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📞 Contact
 
-Your Name - [your.email@example.com](mailto:ameyagirkar1708@gmail.com)
+Your Name - [ameyagirkar1708@gmail.com](mailto:ameyagirkar1708@gmail.com)
 
-Project Link: [https://github.com/your-username/portfolio-website](https://github.com/Ameya173/portfolio-website)
+Project Link: [https://github.com/Ameya173/portfolio-website](https://github.com/Ameya173/portfolio-website)
 
 ---
 
-⭐️ From [Your Name](https://github.com/Ameya173)
+⭐️ From [Ameya Girkar](https://github.com/Ameya173)
